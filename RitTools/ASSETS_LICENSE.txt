@@ -1,0 +1,41 @@
+RitTools — Assets License
+Copyright (C) 2026 RitCrom. All rights reserved.
+
+Covers: PROXY.blend, PROXYHANDS.obj, any other non-code files shipped with
+RitTools (meshes, presets, images, icons, video), and the name and logo "RitTools".
+The program code (*.py) is licensed separately under GPL-3.0-or-later — see LICENSE.
+
+YOU MAY
+- use the assets inside Blender together with RitTools;
+- use the results (renders, animations, baked simulations, .blend scenes, games,
+  videos) in personal and commercial work, without attribution.
+
+YOU MAY NOT
+- resell, share, upload or redistribute the asset files themselves, alone or in
+  another product (add-on, asset pack, model pack), free or paid;
+- extract the assets and present them as your own;
+- use the name or logo "RitTools" for your own product or a modified version.
+
+The assets are provided "as is", without warranty of any kind.
+
+--------------------------------------------------------------------------------
+
+RitTools — Лицензия на ресурсы
+Copyright (C) 2026 RitCrom. Все права защищены.
+
+Распространяется на: PROXY.blend, PROXYHANDS.obj и другие файлы RitTools, кроме
+кода (сетки, пресеты, изображения, иконки, видео), а также на название и логотип
+«RitTools». Программный код (*.py) — отдельно, под GPL-3.0-or-later (см. LICENSE).
+
+МОЖНО
+- использовать ресурсы в Blender вместе с RitTools;
+- использовать результат (рендеры, анимации, запечённые симуляции, сцены .blend,
+  игры, ролики) в личных и коммерческих работах, без указания авторства.
+
+НЕЛЬЗЯ
+- перепродавать, раздавать, выкладывать или включать сами файлы ресурсов в другой
+  продукт (аддон, ассет-пак, набор моделей) — ни платно, ни бесплатно;
+- извлекать ресурсы и выдавать за свои;
+- называть «RitTools» свой продукт или изменённую версию аддона.
+
+Ресурсы предоставляются «как есть», без каких-либо гарантий.
